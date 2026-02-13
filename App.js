@@ -79,7 +79,7 @@ export default function App() {
   );
 }
 
-
+// Estilos
 const styles = StyleSheet.create({
   container: {
     flexGrow: 1,
